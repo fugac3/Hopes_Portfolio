@@ -6,6 +6,11 @@ import './globals.css'
 export const metadata: Metadata = {
   title: "Hope's Portfolio",
   description: 'All about Patience Hope Kerengera.',
+  icons: {
+    icon: '/coffee.png',
+    shortcut: '/coffee.png',
+    apple: '/coffee.png',
+  },
 }
 
 export default function RootLayout({
