@@ -19,9 +19,11 @@ const technicalSkills = [
 
 const toolsAndTechnologies = {
   "Web Development": ["HTML5 and CSS3", "JavaScript", "React", "TypeScript"],
-  "Programming Languages": ["Python", "Java", "C#", "Dart"],
-  "Data & Database": ["SQL", "Tableau"],
+  "Programming Languages": ["Python", "Java", "C#"],
+  "Data Analysis": ["Excel", "Pandas", "Tableau"],
+  "Databases": ["SQL (SQLite, PostgreSQL)"],
   "Development Tools": ["Git", "Microsoft 365", "Google Suite", "Figma", "Wix"],
+  "Backend & Concepts": ["REST APIs"]
 }
 
 // COMPONENT

@@ -24,7 +24,7 @@ export function AboutSection() {
       <div className="bg-card rounded-3xl p-8 shadow-lg border border-border hover:glow-primary transition-all duration-300">
         <div className="space-y-6 text-lg leading-relaxed">
           <p className="text-foreground">
-            Hi, I'm a BCom Information Systems graduate with a strong foundation in 
+            Hi, I'm a UCT BCom Information Systems graduate with a strong foundation in 
             software engineering and a deep interest in building thoughtful, practical, 
             user-centered digital solutions. I’m driven by using technology to solve 
             real-world problems, and I’ve explored that through full-stack web development,

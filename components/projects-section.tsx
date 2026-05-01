@@ -54,7 +54,7 @@ const projects = [
     description: "Robot World is a collaborative Java team project where we built a client/server system to simulate a dynamic world of robots. The server manages the world, obstacles, and robot interactions, while clients launch and control robots through a custom messaging protocol. I gained hands-on experience with Java networking, concurrency, and data serialization while working on this project",
     image: "/robots.jpg",
     tags: ["Java", "JSON", "Socket Programming", "OOP"],
-    link: "",
+    link: "https://github.com/fugac3/robot_world",
     github: "",
     colour: "secondary",
   }
