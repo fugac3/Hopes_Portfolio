@@ -79,7 +79,7 @@ export default function Portfolio() {
         <footer className="fixed bottom-0 left-0 right-0 backdrop-blur-md bg-background/80 border-t border-border">
           <div className="max-w-5xl mx-auto px-6 py-4">
             <div className="flex items-center justify-between text-sm text-muted-foreground">
-              <p>© 2025 Hope</p>
+              <p>© 2026 Hope Kerengera</p>
               <div className="flex gap-4">
                 <a href="https://github.com/fugac3" className="hover:text-primary transition-colors">
                   GitHub
