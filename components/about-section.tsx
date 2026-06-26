@@ -24,27 +24,44 @@ export function AboutSection() {
       <div className="bg-card rounded-3xl p-8 shadow-lg border border-border hover:glow-primary transition-all duration-300">
         <div className="space-y-6 text-lg leading-relaxed">
           <p className="text-foreground">
-            Hi, I'm a UCT BCom Information Systems graduate with a strong foundation in 
-            software engineering and a deep interest in building thoughtful, practical, 
-            user-centered digital solutions. I’m driven by using technology to solve 
-            real-world problems, and I’ve explored that through full-stack web development,
-            systems analysis, and backend programming.
+            Hi, I'm a UCT BCom Information Systems graduate with a strong foundation in software engineering, 
+            data analysis, and systems thinking. I'm passionate about using technology to solve real-world 
+            problems by building practical, reliable, and user-focused solutions.
           </p>
 
           <p className="text-foreground/80">
-            I first got into web development through HTML, CSS, and JavaScript, and I 
-            loved how it let me combine creativity with problem-solving. Later, learning 
-            Python and Java opened up a deeper interest in backend programming and system 
-            logic, giving me new ways to tackle challenges beyond the interface.
+            Through my studies at the University of Cape Town, I developed a broad understanding of 
+            how technology supports businesses, from systems analysis and design to software 
+            development, databases, data analysis, and user experience. That foundation sparked my 
+            interest in software engineering and gave me an appreciation for designing solutions that 
+            are both technically sound and aligned with user and business needs.
           </p>
 
           <p className="text-foreground/80">
-            Through my time at the University of Cape Town, CodeSpace and WeThinkCode_, 
-            I’ve developed a broad technical skill set and an adaptable mindset, giving 
-            me the flexibility to work on everything from designing user experiences to 
-            building the logic behind them. I’m excited by opportunities that challenge 
-            me to keep learning, whether in frontend, backend, or somewhere in between, 
-            especially in collaborative environments where ideas and curiosity are valued.
+            Wanting to build on that interest, I attended CodeSpace to deepen my web development skills, 
+            where I worked with HTML, CSS, JavaScript, React, and TypeScript. I later continued my 
+            software engineering journey at WeThinkCode_, where I expanded into backend development with 
+            Java and Python while working with databases, APIs, and larger software systems.
+          </p>
+
+          <p className="text-foreground/80">
+            Alongside software engineering, I've developed a strong foundation in data analysis through 
+            working with SQL, Python, Pandas, Tableau, Excel, and ETL processes to clean, analyse, and 
+            visualise data. I enjoy uncovering patterns in data and turning them into meaningful 
+            insights that support better decision-making.
+          </p>
+
+          <p className="text-foreground/80">
+            Through my studies at the University of Cape Town, CodeSpace, and WeThinkCode_, I've gained 
+            experience building full-stack applications, client-server systems, APIs, databases, 
+            dashboards, and collaborative software projects using agile practices. These experiences 
+            have strengthened not only my technical skills but also my ability to analyse problems, 
+            learn quickly, and work effectively with others.
+          </p>
+
+          <p className="text-foreground/80">
+            I'm excited by opportunities to continue learning across frontend, backend, and data while 
+            contributing to teams where curiosity, collaboration, and meaningful impact are valued.
           </p>
         </div>
 

@@ -14,12 +14,12 @@ const projects = [
     colour: "primary",
   },
   {
-    title: "Kanban Task Management App",
-    description: "Agile Board is a responsive Kanban task management app built with vanilla JavaScript. Users can create, edit, and move tasks between columns, toggle light/dark themes, and enjoy full data persistence using local storage.",
-    image: "/task_management_app.png",
-    tags: ["HTML", "CSS", "JavaScript"],
-    link: "https://agiletaskapp.netlify.app/",
-    github: "https://github.com/fugac3/HOPKER554_FTO2401_A2_Hope-Kerengera_JSL11",
+    title: "Movie Recommender App",
+    description: "A movie recommendation web app that generates random movies from TMDB, with optional filters for genre, release year, and rating. Built with HTML, CSS, JavaScript, and a serverless backend to securely access the TMDB API.",
+    image: "/movie-rec.png",
+    tags: ["Express.js", "Node.js", "Netlify Functions", "TMDB API", "JavaScript", "CSS", "HTML"],
+    link: "https://hopes-movie-recommender.netlify.app/",
+    github: "https://github.com/fugac3/movie_recommender",
     colour: "secondary",
   },
   {

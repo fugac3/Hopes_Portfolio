@@ -38,11 +38,11 @@ export function HeroSection({ onViewProjects }: HeroSectionProps) {
   </span>
 </h1>
 
-      <p className="text-2xl text-muted-foreground mb-8 font-bold">Software Developer</p>
+      <p className="text-2xl text-muted-foreground mb-8 font-bold">Software Engineer & Data Analyst</p>
 
       {/* Tagline */}
       <p className="text-lg text-foreground/80 max-w-2xl mb-12 leading-relaxed">
-        “Bridging creativity and logic in software development”
+        “Building thoughtful software and data-driven solutions.”
       </p>
 
       {/* CTA Buttons */}
